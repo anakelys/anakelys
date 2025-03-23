@@ -112,5 +112,4 @@ Me chamo Ana Kely de Souza, sou natural do Rio de Janeiro e formada como bachare
   />
 </p>
 
-![Snake animation](https://github.com/seu-usuário-aqui/anakelys/blob/output/github-contribution-grid-snake.svg)
 
