@@ -81,6 +81,14 @@ Me chamo Ana Kely de Souza, sou natural do Rio de Janeiro e formada como bachare
 />
 <img 
     align="left" 
+    alt="Tailwind"
+    title="Tailwind" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
