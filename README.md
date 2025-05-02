@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ana Kely de Souza, sou natural do Rio de Janeiro e formada como bacharel em Física pela UERJ. Atualmente venho me capacitando como desenvolvedora Java. Minha motivação vem do desafio constante de aprender novas tecnologias e desenvolver soluções.  
+Me chamo Ana Kely de Souza, sou natural do Rio de Janeiro, formada como bacharel em Física pela UERJ e estudante de ADS pelo SENAC. Atualmente venho me capacitando como desenvolvedora Java. Minha motivação vem do desafio constante de aprender novas tecnologias e desenvolver soluções.  
 
 <a href="mailto:souzanakely@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
